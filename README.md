@@ -6,17 +6,18 @@ Youtube Dataharvesting and warehousing using python, MySQL and Streamlit
  2. Storage of data in MySQL database
  3. Based on Query, analysis of data from databases
 
-#Technologies used
-  1.python
-  2.MySQL
-  3.streamlit
+#Technologies 
+ 1. python
+ 2. MySQL
+ 3. streamlit
 
 #Required libraries
-import pandas as pd
-from googleapiclient.discovery import build
-import streamlit as st
-import datetime
-import mysql.connector
-import isodate
+
+1. import pandas as pd
+2. from googleapiclient.discovery import build
+3. import streamlit as st
+4. import datetime
+5. import mysql.connector
+6. import isodate
 
 
